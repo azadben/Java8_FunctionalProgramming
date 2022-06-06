@@ -10,6 +10,8 @@ public class Student {
 
     private List<String> activities;
 
+    private int noteBooks;
+
     public Student(String name, int gradeLevel, double gpa, String gender, List<String> activities) {
         this.name = name;
         this.gradeLevel = gradeLevel;
@@ -20,6 +22,15 @@ public class Student {
 
     public Student() {
 
+    }
+
+    public Student(String name, int gradeLevel, double gpa, String gender, List<String> activities, int noteBooks) {
+        this.name = name;
+        this.gradeLevel = gradeLevel;
+        this.gpa = gpa;
+        this.gender = gender;
+        this.noteBooks = noteBooks;
+        this.activities = activities;
     }
 
     public Student(String s) {
@@ -66,6 +77,14 @@ public class Student {
         this.activities = activities;
     }
 
+    public int getNoteBooks() {
+        return noteBooks;
+    }
+
+    public void setNoteBooks(int noteBooks) {
+        this.noteBooks = noteBooks;
+    }
+
     @Override
     public String toString() {
         return "Student{" +
@@ -73,6 +92,7 @@ public class Student {
                 ", gradeLevel=" + gradeLevel +
                 ", gpa=" + gpa +
                 ", gender='" + gender + '\'' +
+                ", noteBooks=" + noteBooks +
                 ", activities=" + activities +
                 '}';
     }

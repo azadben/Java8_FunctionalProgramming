@@ -1,0 +1,17 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(›”Ïî
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨ÏÙ•
+h
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(Ï§ƒ
+i
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(Ï§ƒ
+n
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ÙšÓøıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ØĞ¬é
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¯å«øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(£óŠ¢
+S	java:S106"9Replace this use of System.out or System.err by a logger.(éÇÇ¾úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ï­šã
+N	java:S106"9Replace this use of System.out or System.err by a logger.(İîóå
+M	java:S106"9Replace this use of System.out or System.err by a logger.(‹¯æ)
+S	java:S106"9Replace this use of System.out or System.err by a logger.(²Æ×ùÿÿÿÿ

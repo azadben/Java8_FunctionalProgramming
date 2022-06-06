@@ -1,0 +1,14 @@
+
+g	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(òÿå¼üÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßçÔ¶úÿÿÿÿ
+7
+java:S3864"!Remove this use of "Stream.peek".(†‘Ò
+7
+java:S3864"!Remove this use of "Stream.peek".(Å™²
+<
+java:S3864"!Remove this use of "Stream.peek".(ŒÑõ¬üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŒÑõ¬üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Å™²
+N	java:S106"9Replace this use of System.out or System.err by a logger.(†‘Ò
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ß½êØ

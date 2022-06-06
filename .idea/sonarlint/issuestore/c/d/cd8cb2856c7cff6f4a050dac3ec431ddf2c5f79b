@@ -1,0 +1,14 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(÷Ñ°èúÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßçÔ¶úÿÿÿÿ
+d
+java:S1854"IRemove this useless assignment to local variable "nameAndActivitiesMap1".(¿²Ôşÿÿÿÿ
+X
+java:S1612"=Replace this lambda with method reference 'Student::getName'.(ìªîğşÿÿÿÿ
+^
+java:S1612"CReplace this lambda with method reference 'Student::getActivities'.(ºÊÎÉıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(…°Ñß
+U
+java:S1481":Remove this unused "nameAndActivitiesMap1" local variable.(¿²Ôşÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(Á×ø«
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ê¦‡”ùÿÿÿÿ
