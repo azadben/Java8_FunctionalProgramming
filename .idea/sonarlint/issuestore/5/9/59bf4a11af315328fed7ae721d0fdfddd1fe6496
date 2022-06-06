@@ -1,0 +1,16 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(›¤¤Ïşÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨ÏÙ•
+r
+java:S4276
+"WRefactor this code to use the more specialised Functional Interface 'IntBinaryOperator'(ŸÙİùÿÿÿÿ
+n
+java:S1602
+"SRemove useless curly braces around statement and then remove useless return keyword(ŸÙİùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ë¨¥Šøÿÿÿÿ
+r
+java:S4276"WRefactor this code to use the more specialised Functional Interface 'IntBinaryOperator'( Àİ”øÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ØŸÒÆ8ú¹áÜ‘0
+y
+java:S4276"WRefactor this code to use the more specialised Functional Interface 'IntBinaryOperator'(ªÒ±”øÿÿÿÿ8»ÅîÜ‘0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(”öİ§ûÿÿÿÿ8ö®ëÜ‘0
