@@ -1,0 +1,18 @@
+
+y
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "orElse".(£ä…Äÿÿÿÿÿ
+w
+java:S1488 "aImmediately return this expression instead of assigning it to the temporary variable "orElseGet".(Öãšæ
+y
+java:S1488*"cImmediately return this expression instead of assigning it to the temporary variable "orElseThrow".(üæêÒ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŒàÏ§ûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÒºïÑ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(…Œ¦åøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(€ü­µüÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(í­Ê¾ÿÿÿÿÿ8”¦ïø”0
+Q	java:S125"<This block of commented-out lines of code should be removed.(øßÙ’
+Q	java:S125"<This block of commented-out lines of code should be removed.(øßÙ’
+Q	java:S125("<This block of commented-out lines of code should be removed.(øßÙ’
+j
+java:S1128"ORemove this unused import '$1_Lambda_FunctionalInterface.data.StudentDataBase'.(×îŒ–ÿÿÿÿÿ

@@ -1,0 +1,22 @@
+
+a
+java:S1192"FDefine a constant instead of duplicating this literal "java8" 3 times.(ÙË¢ÿúÿÿÿÿ
+k	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³á¢¥úÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(„ºİÊ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨ÏÙ•
+v
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(™Úÿÿÿÿÿ
+L
+java:S1611"1Remove the parentheses around the "str" parameter(™Úÿÿÿÿÿ
+[
+java:S1612"@Replace this lambda with method reference 'String::toUpperCase'.(™Úÿÿÿÿÿ
+q
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(¡˜ÙÂ
+G
+java:S1611"1Remove the parentheses around the "str" parameter(¡˜ÙÂ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÙË¢ÿúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æ² æøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(µœ“úÿÿÿÿ
+P
+java:S1611)"5Remove the parentheses around the "student" parameter(³á¢¥úÿÿÿÿ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(”‹±‘
