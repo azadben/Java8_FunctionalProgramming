@@ -1,0 +1,16 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÔƒÃÔúÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÒºïÑ
+[
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(šÜæƒùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(šÜæƒùÿÿÿÿ
+[
+java:S1612!"@Replace this lambda with method reference 'System.out::println'.(šÜæƒùÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(šÜæƒùÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(·êÜöüÿÿÿÿ
+f
+java:S1128"DRemove this unused import '$1_Lambda_FunctionalInterface.data.Bike'.(ÌŠæ½üÿÿÿÿ8óÌÌú”0
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8óÌÌú”0
+Z
+java:S1128	"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8óÌÌú”0

@@ -1,0 +1,11 @@
+
+=
+java:S1604	"(Make this anonymous inner class a lambda(¼ Ñv
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(´ÎÑşÿÿÿÿ
+R
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Ù®ä‚
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨ÏÙ•
+Z
+java:S3358"DExtract this nested ternary operation into an independent statement.(Ù®ä‚
+M	java:S106"9Replace this use of System.out or System.err by a logger.(…ÛÆ=
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÍûÒ¢

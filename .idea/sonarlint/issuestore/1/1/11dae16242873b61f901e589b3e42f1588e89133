@@ -1,0 +1,24 @@
+
+b	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(•²çÃ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßçÔ¶úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ºĞ‹Êşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ã™´–
+S	java:S106"9Replace this use of System.out or System.err by a logger.(«ÿ§¸øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(® û•
+N	java:S106"9Replace this use of System.out or System.err by a logger.(“ÆËü
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ôˆò¹
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Í¼Ê
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(òñ£¤ûÿÿÿÿ8èÃÆ×’0
+h
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+h
+java:S6204'"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+h
+java:S6204/"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+e
+java:S18545"CRemove this useless assignment to local variable "gradeComparator".(—‰¤Åÿÿÿÿÿ8ùìÈ×’0
+V
+java:S14815"4Remove this unused "gradeComparator" local variable.(—‰¤Åÿÿÿÿÿ8ğÑÉ×’0
+h
+java:S6204:"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹

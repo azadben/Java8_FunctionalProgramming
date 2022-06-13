@@ -1,0 +1,10 @@
+
+ˆ
+java:S1488"fImmediately return this expression instead of assigning it to the temporary variable "stringOptional".(ş…Õôøÿÿÿÿ8Ëá¸÷”0
+ˆ
+java:S1488"fImmediately return this expression instead of assigning it to the temporary variable "stringOptional".(ñ†´Šıÿÿÿÿ8Ëá¸÷”0
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(îÚŸÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÒºïÑ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ıÌ°b
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(­‘Âıÿÿÿÿ8¯‰¹÷”0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(·®œ†8“ó¹÷”0

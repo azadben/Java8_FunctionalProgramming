@@ -1,0 +1,17 @@
+
+`
+java:S1192"KDefine a constant instead of duplicating this literal "gymnastics" 3 times.(­˜š,
+^
+java:S1192"IDefine a constant instead of duplicating this literal "swimming" 7 times.(€§ŸF
+\
+java:S1192"GDefine a constant instead of duplicating this literal "female" 3 times.(­˜š,
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û›Ê2
+u
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "Students".(Û›Ê2
+q
+java:S1104#"[Make studentSupplier a static final constant or non-public and provide accessors if needed.(ÖŞ›‰
+K
+java:S1444#"5Make this "public static studentSupplier" field final(ÖŞ›‰
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ĞÄ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(±¦Æ‘
